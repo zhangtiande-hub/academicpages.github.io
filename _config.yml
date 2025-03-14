@@ -25,7 +25,7 @@ author:
   avatar           : "q微信图片_20220807211936.jpg"
   name             : "Zhang Tiande"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  # bio              : "Short biography for the left-hand sidebar"
   location         : "Shengyang,Liaoning province,China"
   employer         : "Northeastern University"
   # uri              : # URL
